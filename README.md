@@ -13,7 +13,7 @@ AI engineer. I build the data side of AI systems: getting data out of sources th
 
 | Project | What it does |
 |---|---|
-| [canopy](https://github.com/headply/canopy) | EUDR deforestation screening for supplier plots |
+| [canopy](https://github.com/headply/canopy) | EUDR deforestation screening for supplier plots (build in progress locally) |
 | [pit-fundamentals](https://github.com/headply/pit-fundamentals) | Point-in-time fundamentals from SEC EDGAR XBRL filings, with the date every number became public |
 | [apify-data-tools-mcp](https://github.com/headply/apify-data-tools-mcp) | Remote MCP server: Threads, Yelp, transcripts, Google Trends, Airbnb and Jumia as tools for Claude, Cursor and VS Code |
 | [youtube-tiktok-transcripts](https://github.com/headply/youtube-tiktok-transcripts) | Bulk transcripts for YouTube and TikTok, with speech recognition when a video has no captions |
